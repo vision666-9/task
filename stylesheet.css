@@ -1,0 +1,10 @@
+body {
+    margin: 0 auto;
+}
+
+.main {
+    text-align: center;
+    margin: 180px 480px;
+    background-color: khaki;
+    padding: 100px;
+}
